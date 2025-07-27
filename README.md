@@ -66,12 +66,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## ✨ author
+## ✨ Author
 
 * **Sugesh**
   [GitHub Profile »](https://github.com/sugesh233)
-
-```
 
 ---
 
